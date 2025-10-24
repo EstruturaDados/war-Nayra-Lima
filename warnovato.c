@@ -51,7 +51,7 @@ int main() {
         printf("-----------------------------\n");
     }
 
-    printf("\nCadastro concluído com sucesso!\n");
+    printf("\nCadastro concluído com sucesso!\n"); // Finalizado
 
     return 0;
 }
